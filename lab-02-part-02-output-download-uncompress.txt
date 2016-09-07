@@ -19,7 +19,7 @@ $ echo hello
 Copy and paste the output below.
 ----------
 
-
+hello
 
 ==========
 2. Type:
@@ -29,7 +29,7 @@ $ echo hello there
 Copy and paste the output below.
 ----------
 
-
+hello there
 
 ==========
 3. Type:
@@ -39,7 +39,7 @@ $ echo good mornin'
 Copy and paste the output below.
 ----------
 
-
+>
 
 ==========
 4. Uh-oh... we're stuck!
@@ -47,7 +47,7 @@ Copy and paste the output below.
 Type [CTRL + C] to get your prompt back.
 ----------
 
-
+ent-v314-010:~ student$ 
 
 ==========
 5. Say good mornin' again with quotes!
@@ -57,7 +57,7 @@ $ echo "good mornin'"
 Copy and paste the output below.
 ----------
 
-
+good mornin'
 
 ==========
 6. There are some other symbols that have special meanings if you don't quote them.  For example, > brings up a different prompt.  Try *.
@@ -67,7 +67,7 @@ $ echo *
 What happens?
 ----------
 
-
+Adlm Adobe Applications Desktop Documents Downloads Library MPLABXProjects Movies Music Pictures Public Things isus pymel.log xgen
 
 ==========
 7. Ok... that's a lot of output.  How do we clean up our screen so that it's empty again?
@@ -75,7 +75,7 @@ What happens?
 Write the command that you used below:
 ----------
 
-
+clear
 
 ==========
 We're going to practice downloading files from a web site.  We'll use this practice to download more lab materials!
@@ -88,7 +88,12 @@ $ curl google.com
 Copy and paste the output below.
 ----------
 
-
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
 
 ==========
 9. And again.  This time, add www to the URL.
